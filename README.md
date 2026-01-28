@@ -1,4 +1,4 @@
-# Crime Pattern Analysis (Colab Notebook)
+# Crime Pattern Analysis
 
 This repository contains the implementation of a comprehensive Machine Learning pipeline for analyzing crime incidents in the City of Ottawa. The project applies supervised, unsupervised, and anomaly detection techniques to uncover temporal, spatial, and behavioural crime patterns using real-world municipal data.
 
